@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-anh-nguy%E1%BB%85n-508018324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhật anh nguyễn" height="30" width="40" /></a>
-<a href="https://fb.com/nhat anh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhat anh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/n4th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n4th" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Nahhhh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhat anh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/N4thh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n4th" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
